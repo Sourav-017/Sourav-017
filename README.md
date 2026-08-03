@@ -27,7 +27,6 @@
 
 # Hi, I'm Sourav 👋
 
-**Computer Vision · Edge AI · DSP**
 
 </div>
 
