@@ -35,7 +35,7 @@ Currently exploring **LLMs, Computer Vision, and Machine Learning**, while conti
 <div align="center">
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shomesourav32@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/sourav-shome-0a6853202/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile])(https://www.linkedin.com/in/sourav-shome-0a6853202/)
 [![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/_SSH_)
 
 </div>
