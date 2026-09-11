@@ -26,14 +26,7 @@ Currently exploring **LLMs, Computer Vision, and Machine Learning**, while conti
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sourav-017&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav-017&layout=compact)
-
-</div>
 
 ---
 
