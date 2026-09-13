@@ -25,11 +25,6 @@ Currently exploring **LLMs, Computer Vision, and Machine Learning**, while conti
 </div>
 
 ---
-
-
-
----
-
 ### 📫 Reach Me
 
 <div align="center">
